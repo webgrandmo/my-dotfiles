@@ -1,0 +1,12 @@
+# Do NOT sync history
+.zsh_history
+
+# VS Code cache
+.vscode
+
+# GNOME cache
+gnome/.cache
+
+# System-specific files
+*.swp
+*.tmp
